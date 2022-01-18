@@ -43,7 +43,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🖤FOR NEW MOVIE❤', url=f'http://t.me/mrbhiman12')
             ],[
-            InlineKeyboardButton('FAST MOVIE'S🔎', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('ϻᴿ』☯Sʜᴀᴅօw', url='https://t.me/mrbhiman44')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
@@ -84,7 +84,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🖤FOR NEW MOVIE❤', url=f'http://t.me/mrbhiman12')
             ],[
-            InlineKeyboardButton('FAST MOVIE'S🔎', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('ϻᴿ』☯Sʜᴀᴅօw', url='https://t.me/mrbhiman44')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
