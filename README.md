@@ -32,7 +32,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://t.me/mrbhiman12) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -100,16 +100,16 @@ python3 bot.py
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
+• /broadcast - to broadcast a message to all mr_Bhiman users
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/mrbhiman12)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/mrbhiman)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![『ϻᴿ』☯Sʜᴀᴅօw](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://t.me/mrbhiman44)
 
 
 ## Thanks to 
@@ -120,10 +120,9 @@ python3 bot.py
 
 ### Note
 
-[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
+[Note To call 『ϻᴿ』☯Sʜᴀᴅօw](https://t.me/mrbhiman44): 
 
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
-Fork the repo and edit as per your needs.
+Kanging this codes and and editing a few lines and releasing a V.x  or an [『ϻᴿ』☯Sʜᴀᴅօw](https://t.me/mrbhiman44), beta , gama branches of your repo won't make you a Developer.
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
@@ -131,6 +130,6 @@ Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/maste
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
+This is mode repo for[❤FAST_MOVIE🖤](https://t.me/mrbhiman12)
 
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+[![🖤FAST_MOVIE❤](https://telegra.ph/file/c2f622378bf49fa9455a9.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "fast_movie")
