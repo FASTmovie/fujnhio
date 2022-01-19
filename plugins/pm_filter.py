@@ -359,7 +359,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     file_id=file_id,
                     caption=f_caption
                     )
-                await query.answer('🖤ഞാൻ നിങ്ങളുടെ private chat ill ഫയൽ അയയ്ക്കുന്നു❤',show_alert = True)
+                await query.answer('🖤 ഞാൻ നിങ്ങളുടെ private ചാറ്റിൽ അയച്ചിട്ടുണ്ട് (look your pm)❤',show_alert = True)
         except UserIsBlocked:
             await query.answer('Unblock the bot mahn !',show_alert = True)
         except PeerIdInvalid:
