@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fast_movie/mr_bhiman.logo.jpg" alt="movie/IMG_20211224_142702_974.jpg">
+  <img src="FAST_MOVIE/mr_bhiman.logo.jpg" alt="FAST_MOVIE/mr_bhiman.logo.jpg">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
