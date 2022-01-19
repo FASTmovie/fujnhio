@@ -112,7 +112,7 @@ async def next_page(bot, query):
 async def advantage_spoll_choker(bot, query):
     _, user, movie_ = query.data.split('#')
     if int(user) != 0 and query.from_user.id != int(user):
-        return await query.answer("okDa", show_alert=True)
+        return await query.answer("ഇത് നിങ്ങളുടേതല്ല🤔", show_alert=True)
     if movie_  == "close_spellcheck":
         return await query.message.delete()
     movies = SPELL_CHECK.get(query.message.reply_to_message.message_id)
@@ -359,7 +359,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     file_id=file_id,
                     caption=f_caption
                     )
-                await query.answer('Check PM, I have sent files in pm',show_alert = True)
+                await query.answer('🖤ഞാൻ നിങ്ങളുടെ private chat ill ഫയൽ അയയ്ക്കുന്നു❤',show_alert = True)
         except UserIsBlocked:
             await query.answer('Unblock the bot mahn !',show_alert = True)
         except PeerIdInvalid:
