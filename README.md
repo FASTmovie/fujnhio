@@ -6,15 +6,6 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
-
-
 ## Features
 
 - [x] Auto Filter
@@ -130,6 +121,6 @@ Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/maste
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is mode repo for[❤FAST_MOVIE🖤](https://t.me/mrbhiman12)
+made for repo for[❤FAST_MOVIE🖤](https://t.me/mrbhiman12)
 
 [![🖤FAST_MOVIE❤](https://telegra.ph/file/c2f622378bf49fa9455a9.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "fast_movie")
