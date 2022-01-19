@@ -2,7 +2,7 @@
   <img src="FAST_MOVIE/mr_bhiman.logo.jpg" alt="FAST_MOVIE/mr_bhiman.logo.jpg">
 </p>
 <h1 align="center">
-  <b>🄼🅁_🄱🄷🄸🄼🄰🄽_🄱🄾🅃</b>
+  <b>🄼🅁_🄱🄷🄸🄼🄰🄽 🄱🄾🅃</b>
 </h1>
 
 
