@@ -44,22 +44,7 @@ IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), False)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", None)
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
-IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>Query: {query}</b> \n‌‌‌‌IMDb Data:\n\n<b>📟 Movie Name</b> : <b><a href={url}>{title}</a></b>
-<b>🗒️ Release Date</b> : <b>{release_date}</b>
-
-<b>📧 Votes</b> : <b>{votes}</b>
-<b>⏰ RunTime</b> : <b>{runtime} Minutes</b>
-<b>⭐ IMDB Rating</b> : <b><a href={url}/ratings>{rating}/10</a></b>
-
-<b>🎞️ Genres</b> : <b>{genres}</b>
-<b>🎬 Director</b> : <b><a href={url}/director>{director}</a></b>
-<b>📝 Writer</b> : <b><a href={url}/writer>{writer}</a></b>
-
-<b>🔊 Languages</b> : <b>{languages}</b>
-<b>💃🏻 Cast</b> : <b><a href={url}/cast>{cast}</a></b>
-
-<b>👩🏻‍💻 Requested By</b> : <b>{requested}</b>
-<b>🚀 Group</b> : <b>{group}</b>🏅𝙈𝙊𝙑𝙄𝙀 𝙁𝙍𝙊𝙈: @MRBHIMAN12 ")
+IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>Query: {query}</b> \n‌‌‌‌IMDb Data:\n\n<b>📟 Movie Name</b> : <b><a href={url}>{title}</a></b><b>📧 Votes</b> : <b>{votes}</b><b>🗒️ Release Date</b> : <b>{release_date}</b><b>⏰ RunTime</b> : <b>{runtime} Minutes</b><b>⭐ IMDB Rating</b> : <b><a href={url}/ratings>{rating}/10</a></b><b>🎞️ Genres</b> : <b>{genres}</b><b>🎬 Director</b> : <b><a href={url}/director>{director}</a></b><b>📝 Writer</b> : <b><a href={url}/writer>{writer}</a></b><b>🔊 Languages</b> : <b>{languages}</b><b>💃🏻 Cast</b> : <b><a href={url}/cast>{cast}</a></b><b>👩🏻‍💻 Requested By</b> : <b>{requested}</b><b>🚀 Group</b> : <b>{group}</b>🏅𝙈𝙊𝙑𝙄𝙀 𝙁𝙍𝙊𝙈: @MRBHIMAN12 ")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
