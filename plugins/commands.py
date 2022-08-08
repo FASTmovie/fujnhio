@@ -22,7 +22,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🖤𝚏𝚘𝚛 𝚖𝚘𝚟𝚒𝚎 𝚞𝚙𝚍𝚊𝚝𝚒𝚘𝚗❤', url='https://t.me/mrbhiman12')
+                InlineKeyboardButton('🖤𝚏𝚘𝚛 𝚖𝚘𝚟𝚒𝚎 𝚞𝚙𝚍𝚊𝚝𝚒𝚘𝚗❤', url='https://t.me/stupidmasst')
             ],
             [
                 InlineKeyboardButton('☎ 𝙃𝙀𝙇𝙋', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -41,7 +41,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🖤𝙁𝙊𝙍 𝙉𝙀𝙒 𝙈𝙊𝙑𝙄𝙀❤', url=f'http://t.me/mrbhiman12')
+            InlineKeyboardButton('🖤𝚏𝚘𝚛 𝚖𝚘𝚟𝚒𝚎 𝚞𝚙𝚍𝚊𝚝𝚒𝚘𝚗❤', url=f'https://t.me/stupidmasst')
             ],[
             InlineKeyboardButton('🔍 𝙎𝙀𝘼𝙍𝘾𝙃', switch_inline_query_current_chat=''),
             InlineKeyboardButton('ϻᴿ』☯Sʜᴀᴅօw', url='https://t.me/mrbhiman44')
@@ -82,7 +82,7 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('🖤𝙁𝙊𝙍 𝙉𝙀𝙒 𝙈𝙊𝙑𝙄𝙀❤', url=f'http://t.me/mrbhiman12')
+            InlineKeyboardButton('🖤𝚏𝚘𝚛 𝚖𝚘𝚟𝚒𝚎 𝚞𝚙𝚍𝚊𝚝𝚒𝚘𝚗❤', url=f'https://t.me/stupidmasst')
             ],[
             InlineKeyboardButton('🔍 𝙎𝙀𝘼𝙍𝘾𝙃', switch_inline_query_current_chat=''),
             InlineKeyboardButton('ϻᴿ』☯Sʜᴀᴅօw', url='https://t.me/mrbhiman44')
