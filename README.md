@@ -53,11 +53,7 @@ You can deploy this bot anywhere.
 </details>
 
 <details><summary>Deploy To railway</summary>
-<p>
-<pr>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RY1JNC?referralCode=JT_gRW)
-</pr>
-</p>
 </details>
 
 
