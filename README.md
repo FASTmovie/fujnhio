@@ -52,10 +52,9 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>Deploy To railway</summary>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RY1JNC?referralCode=JT_gRW)
-</details>
+#deploye to railway
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RY1JNC?referralCode=JT_gRW)
 
 ## Commands
 ```
