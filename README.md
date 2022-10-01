@@ -43,8 +43,6 @@ Read [this](https://t.me/mrbhiman12) before you start messing up with your edits
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
@@ -54,15 +52,11 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
+<details><summary>Deploy To railway</summary>
 <p>
-<pre>
-git clone https://github.com/FASTmovie/fujnhio
-# Install Packages
-pip3 install -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
+<pr>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RY1JNC?referralCode=JT_gRW)
+</pr>
 </p>
 </details>
 
