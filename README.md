@@ -55,6 +55,10 @@ You can deploy this bot anywhere.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RY1JNC?referralCode=JT_gRW)
 
+#deploye to koyeb
+
+koyeb service redeploy administrative-lee/fujnhio
+
 ## Commands
 ```
 • /logs - to get the rescent errors
